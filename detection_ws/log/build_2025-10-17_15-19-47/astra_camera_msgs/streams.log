@@ -1,0 +1,349 @@
+[0.029s] Invoking command in '/home/david/detection_ws/build/astra_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/david/detection_ws/install/object_detector:/opt/ros/humble PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --build /home/david/detection_ws/build/astra_camera_msgs -- -j8 -l8
+[0.227s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_generator_c[0m
+[0.231s] [  1%] Built target astra_camera_msgs__cpp
+[0.259s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_cpp[0m
+[0.261s] [  1%] Built target ament_cmake_python_copy_astra_camera_msgs
+[0.262s] [ 12%] Built target astra_camera_msgs__rosidl_generator_c
+[0.263s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.263s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.305s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_introspection_c[0m
+[0.305s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_c[0m
+[0.309s] [ 24%] Built target astra_camera_msgs__rosidl_typesupport_cpp
+[0.309s] [ 35%] Built target astra_camera_msgs__rosidl_typesupport_introspection_cpp
+[0.311s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.313s] [ 47%] Built target astra_camera_msgs__rosidl_typesupport_fastrtps_cpp
+[0.327s] [ 58%] Built target astra_camera_msgs__rosidl_typesupport_c
+[0.329s] [ 70%] Built target astra_camera_msgs__rosidl_typesupport_introspection_c
+[0.346s] [ 82%] Built target astra_camera_msgs__rosidl_typesupport_fastrtps_c
+[0.376s] [ 82%] Built target astra_camera_msgs
+[0.411s] [ 83%] Built target astra_camera_msgs__py
+[0.432s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_generator_py[0m
+[0.461s] [ 93%] Built target astra_camera_msgs__rosidl_generator_py
+[0.482s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.482s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.489s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_msgs__rosidl_typesupport_c__pyext[0m
+[0.504s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[0.505s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[0.508s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[0.749s] running egg_info
+[0.750s] writing astra_camera_msgs.egg-info/PKG-INFO
+[0.751s] writing dependency_links to astra_camera_msgs.egg-info/dependency_links.txt
+[0.751s] writing top-level names to astra_camera_msgs.egg-info/top_level.txt
+[0.755s] reading manifest file 'astra_camera_msgs.egg-info/SOURCES.txt'
+[0.757s] [ 97%] Built target astra_camera_msgs__rosidl_typesupport_c__pyext
+[0.757s] writing manifest file 'astra_camera_msgs.egg-info/SOURCES.txt'
+[0.763s] [ 98%] Built target astra_camera_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.763s] [100%] Built target astra_camera_msgs__rosidl_typesupport_introspection_c__pyext
+[0.800s] [100%] Built target ament_cmake_python_build_astra_camera_msgs_egg
+[0.819s] Invoked command in '/home/david/detection_ws/build/astra_camera_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/david/detection_ws/install/object_detector:/opt/ros/humble PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --build /home/david/detection_ws/build/astra_camera_msgs -- -j8 -l8
+[0.834s] Invoking command in '/home/david/detection_ws/build/astra_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/david/detection_ws/install/object_detector:/opt/ros/humble PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --install /home/david/detection_ws/build/astra_camera_msgs
+[0.847s] -- Install configuration: ""
+[0.848s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/ament_index/resource_index/rosidl_interfaces/astra_camera_msgs
+[0.849s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs
+[0.849s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg
+[0.849s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/extrinsics.h
+[0.850s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.850s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/device_info.h
+[0.850s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail
+[0.851s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__struct.h
+[0.851s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__functions.h
+[0.851s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__functions.h
+[0.851s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__functions.h
+[0.852s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__type_support.h
+[0.852s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__struct.h
+[0.852s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__functions.c
+[0.852s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__type_support.h
+[0.852s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__struct.h
+[0.853s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__type_support.h
+[0.853s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__functions.c
+[0.853s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__functions.c
+[0.853s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/metadata.h
+[0.854s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv
+[0.854s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_device_info.h
+[0.854s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_camera_params.h
+[0.854s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_string.h
+[0.854s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_camera_info.h
+[0.854s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail
+[0.855s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__functions.h
+[0.855s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__type_support.h
+[0.855s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__functions.c
+[0.855s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__type_support.h
+[0.855s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__functions.h
+[0.855s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__functions.c
+[0.855s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__struct.h
+[0.856s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__type_support.h
+[0.856s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__functions.h
+[0.856s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__functions.h
+[0.856s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__struct.h
+[0.856s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__functions.c
+[0.856s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__functions.h
+[0.857s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__functions.h
+[0.857s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__functions.c
+[0.857s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__type_support.h
+[0.857s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__type_support.h
+[0.857s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__functions.c
+[0.857s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__struct.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__type_support.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__functions.c
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__struct.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__struct.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__struct.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_int32.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/set_int32.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/library_path.sh
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/library_path.dsv
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_generator_c.so
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.858s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail
+[0.859s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_fastrtps_c.h
+[0.859s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_fastrtps_c.h
+[0.859s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_fastrtps_c.h
+[0.859s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv
+[0.859s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_fastrtps_c.h
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_fastrtps_c.h
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_fastrtps_c.h
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_fastrtps_c.h
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_fastrtps_c.h
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_fastrtps_c.h
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_fastrtps_c.so
+[0.860s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_introspection_c.h
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__type_support.c
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_introspection_c.h
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__type_support.c
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__type_support.c
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_introspection_c.h
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv
+[0.861s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_introspection_c.h
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_introspection_c.h
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__type_support.c
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_introspection_c.h
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__type_support.c
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__type_support.c
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_introspection_c.h
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__type_support.c
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_introspection_c.h
+[0.862s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__type_support.c
+[0.863s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__type_support.c
+[0.863s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_introspection_c.h
+[0.863s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_introspection_c.so
+[0.863s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_c.so
+[0.864s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs
+[0.864s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg
+[0.864s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/extrinsics.hpp
+[0.864s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/device_info.hpp
+[0.864s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.865s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/metadata.hpp
+[0.865s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail
+[0.865s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__struct.hpp
+[0.865s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__struct.hpp
+[0.866s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__builder.hpp
+[0.866s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__builder.hpp
+[0.866s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__type_support.hpp
+[0.866s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__struct.hpp
+[0.866s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__builder.hpp
+[0.867s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__traits.hpp
+[0.867s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__traits.hpp
+[0.867s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__type_support.hpp
+[0.867s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__type_support.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__traits.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_int32.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_string.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/set_int32.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_device_info.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_camera_params.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/get_camera_info.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__builder.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__traits.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__traits.hpp
+[0.868s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__struct.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__struct.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__struct.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__traits.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__traits.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__type_support.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__type_support.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__type_support.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__struct.hpp
+[0.869s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__type_support.hpp
+[0.870s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__struct.hpp
+[0.870s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__builder.hpp
+[0.870s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__type_support.hpp
+[0.870s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__type_support.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__builder.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__traits.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__traits.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__builder.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__struct.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__builder.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__builder.hpp
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs
+[0.871s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_fastrtps_cpp.hpp
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/dds_fastrtps
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_fastrtps_cpp.hpp
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_fastrtps_cpp.hpp
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_fastrtps_cpp.hpp
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_fastrtps_cpp.hpp
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/dds_fastrtps
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_fastrtps_cpp.hpp
+[0.872s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_fastrtps_cpp.hpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_fastrtps_cpp.hpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_fastrtps_cpp.hpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__type_support.cpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__type_support.cpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/device_info__rosidl_typesupport_introspection_cpp.hpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/extrinsics__rosidl_typesupport_introspection_cpp.hpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__rosidl_typesupport_introspection_cpp.hpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/msg/detail/metadata__type_support.cpp
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail
+[0.873s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__type_support.cpp
+[0.874s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__type_support.cpp
+[0.874s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__type_support.cpp
+[0.874s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_info__rosidl_typesupport_introspection_cpp.hpp
+[0.874s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__type_support.cpp
+[0.874s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/set_int32__rosidl_typesupport_introspection_cpp.hpp
+[0.874s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__rosidl_typesupport_introspection_cpp.hpp
+[0.874s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_int32__rosidl_typesupport_introspection_cpp.hpp
+[0.875s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__rosidl_typesupport_introspection_cpp.hpp
+[0.875s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_string__rosidl_typesupport_introspection_cpp.hpp
+[0.875s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_device_info__type_support.cpp
+[0.875s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/include/astra_camera_msgs/astra_camera_msgs/srv/detail/get_camera_params__type_support.cpp
+[0.875s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_introspection_cpp.so
+[0.875s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_typesupport_cpp.so
+[0.876s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/pythonpath.sh
+[0.876s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/pythonpath.dsv
+[0.876s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs-1.0.1-py3.10.egg-info
+[0.876s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs-1.0.1-py3.10.egg-info/PKG-INFO
+[0.876s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs-1.0.1-py3.10.egg-info/SOURCES.txt
+[0.876s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs-1.0.1-py3.10.egg-info/dependency_links.txt
+[0.877s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs-1.0.1-py3.10.egg-info/top_level.txt
+[0.877s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs
+[0.877s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/_astra_camera_msgs_s.ep.rosidl_typesupport_c.c
+[0.877s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg
+[0.877s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg/_extrinsics.py
+[0.877s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg/_extrinsics_s.c
+[0.878s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg/_metadata.py
+[0.878s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg/_device_info_s.c
+[0.878s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg/_device_info.py
+[0.878s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg/_metadata_s.c
+[0.878s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg/__init__.py
+[0.878s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv
+[0.878s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_camera_params.py
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_string.py
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_int32.py
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_device_info_s.c
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_set_int32.py
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_string_s.c
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_camera_info_s.c
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_camera_params_s.c
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_camera_info.py
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_set_int32_s.c
+[0.879s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_int32_s.c
+[0.880s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/__init__.py
+[0.880s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv/_get_device_info.py
+[0.880s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.880s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.880s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/libastra_camera_msgs__rosidl_generator_py.so
+[0.880s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.880s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/_astra_camera_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.880s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/__init__.py
+[0.880s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/_astra_camera_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.932s] Listing '/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs'...
+[0.932s] Listing '/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/msg'...
+[0.932s] Listing '/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/srv'...
+[0.938s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.939s] -- Set runtime path of "/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[0.939s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.940s] -- Set runtime path of "/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[0.940s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.941s] -- Set runtime path of "/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages/astra_camera_msgs/astra_camera_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[0.942s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/lib/libastra_camera_msgs__rosidl_generator_py.so
+[0.943s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/msg/DeviceInfo.idl
+[0.943s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/msg/Extrinsics.idl
+[0.943s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/msg/Metadata.idl
+[0.944s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo.idl
+[0.944s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo.idl
+[0.944s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams.idl
+[0.944s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32.idl
+[0.945s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString.idl
+[0.945s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32.idl
+[0.945s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/msg/DeviceInfo.msg
+[0.945s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/msg/Extrinsics.msg
+[0.946s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/msg/Metadata.msg
+[0.946s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo.srv
+[0.946s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo_Request.msg
+[0.946s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetDeviceInfo_Response.msg
+[0.946s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo.srv
+[0.947s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo_Request.msg
+[0.947s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraInfo_Response.msg
+[0.947s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams.srv
+[0.947s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams_Request.msg
+[0.948s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetCameraParams_Response.msg
+[0.948s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32.srv
+[0.948s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32_Request.msg
+[0.948s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetInt32_Response.msg
+[0.948s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString.srv
+[0.948s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString_Request.msg
+[0.949s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/GetString_Response.msg
+[0.949s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32.srv
+[0.949s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32_Request.msg
+[0.949s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/srv/SetInt32_Response.msg
+[0.949s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/ament_index/resource_index/package_run_dependencies/astra_camera_msgs
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/ament_index/resource_index/parent_prefix_path/astra_camera_msgs
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/ament_prefix_path.sh
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/ament_prefix_path.dsv
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/path.sh
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/environment/path.dsv
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.bash
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.sh
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.zsh
+[0.950s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/local_setup.dsv
+[0.950s] -- Installing: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/package.dsv
+[0.951s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/ament_index/resource_index/packages/astra_camera_msgs
+[0.953s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_generator_cExport.cmake
+[0.953s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.954s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.954s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.955s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.955s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.956s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cExport.cmake
+[0.956s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.957s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_generator_cppExport.cmake
+[0.958s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.958s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.959s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.959s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.960s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cppExport.cmake
+[0.960s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.961s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_generator_pyExport.cmake
+[0.961s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/export_astra_camera_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.961s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/rosidl_cmake-extras.cmake
+[0.962s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.962s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.962s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.963s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.963s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.963s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.963s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgsConfig.cmake
+[0.963s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/cmake/astra_camera_msgsConfig-version.cmake
+[0.964s] -- Up-to-date: /home/david/detection_ws/install/astra_camera_msgs/share/astra_camera_msgs/package.xml
+[0.967s] Invoked command in '/home/david/detection_ws/build/astra_camera_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/david/detection_ws/install/object_detector:/opt/ros/humble PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --install /home/david/detection_ws/build/astra_camera_msgs

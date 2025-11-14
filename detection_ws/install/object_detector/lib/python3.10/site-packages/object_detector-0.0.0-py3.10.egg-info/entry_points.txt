@@ -1,0 +1,4 @@
+[console_scripts]
+depth_fusion_node = object_detector.depth_fusion_node:main
+yolo_marker_node = object_detector.yolo_marker_node:main
+

@@ -1,0 +1,9 @@
+path: /home/david/yolo_custom_data
+
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test/images
+
+nc: 4
+
+names: ['car', 'biker', 'pedestrian', 'trafficsignal']

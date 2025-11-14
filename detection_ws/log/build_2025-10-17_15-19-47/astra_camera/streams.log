@@ -1,0 +1,118 @@
+[0.308s] Invoking command in '/home/david/detection_ws/build/astra_camera': CMAKE_PREFIX_PATH=/home/david/detection_ws/install/astra_camera_msgs:/home/david/detection_ws/install/astra_camera:/home/david/detection_ws/install/object_detector:/opt/ros/humble LD_LIBRARY_PATH=/home/david/detection_ws/install/astra_camera_msgs/lib:/home/david/detection_ws/install/astra_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages:/home/david/detection_ws/install/object_detector/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --build /home/david/detection_ws/build/astra_camera -- -j8 -l8
+[0.433s] [35m[1mConsolidate compiler generated dependencies of target astra_camera[0m
+[0.537s] [ 68%] Built target astra_camera
+[0.556s] [35m[1mConsolidate compiler generated dependencies of target clean_shm_node[0m
+[0.557s] [35m[1mConsolidate compiler generated dependencies of target astra_camera_node[0m
+[0.558s] [35m[1mConsolidate compiler generated dependencies of target list_devices_node[0m
+[0.574s] [ 78%] Built target clean_shm_node
+[0.581s] [ 89%] Built target list_devices_node
+[0.589s] [ 94%] [32m[1mLinking CXX executable astra_camera_node[0m
+[1.878s] [100%] Built target astra_camera_node
+[1.889s] Invoked command in '/home/david/detection_ws/build/astra_camera' returned '0': CMAKE_PREFIX_PATH=/home/david/detection_ws/install/astra_camera_msgs:/home/david/detection_ws/install/astra_camera:/home/david/detection_ws/install/object_detector:/opt/ros/humble LD_LIBRARY_PATH=/home/david/detection_ws/install/astra_camera_msgs/lib:/home/david/detection_ws/install/astra_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages:/home/david/detection_ws/install/object_detector/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --build /home/david/detection_ws/build/astra_camera -- -j8 -l8
+[1.893s] Invoking command in '/home/david/detection_ws/build/astra_camera': CMAKE_PREFIX_PATH=/home/david/detection_ws/install/astra_camera_msgs:/home/david/detection_ws/install/astra_camera:/home/david/detection_ws/install/object_detector:/opt/ros/humble LD_LIBRARY_PATH=/home/david/detection_ws/install/astra_camera_msgs/lib:/home/david/detection_ws/install/astra_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages:/home/david/detection_ws/install/object_detector/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --install /home/david/detection_ws/build/astra_camera
+[1.901s] -- Install configuration: "Debug"
+[1.903s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib/libastra_camera.so
+[1.903s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib/libOpenNI2.so
+[1.903s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib//OpenNI2
+[1.904s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib//OpenNI2/Drivers
+[1.905s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib//OpenNI2/Drivers/OniFile.ini
+[1.905s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib//OpenNI2/Drivers/libOniFile.so
+[1.905s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib//OpenNI2/Drivers/orbbec.ini
+[1.905s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib//OpenNI2/Drivers/liborbbec.so
+[1.907s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib/astra_camera/list_devices_node
+[1.909s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/lib/astra_camera/clean_shm_node
+[1.910s] -- Installing: /home/david/detection_ws/install/astra_camera/lib/astra_camera/astra_camera_node
+[1.918s] -- Set runtime path of "/home/david/detection_ws/install/astra_camera/lib/astra_camera/astra_camera_node" to ""
+[1.918s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include
+[1.918s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/magic_enum
+[1.919s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/magic_enum/magic_enum.hpp
+[1.919s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2
+[1.919s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniCTypes.h
+[1.919s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/PrimeSense.h
+[1.919s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/MacOSX
+[1.920s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/MacOSX/OniPlatformMacOSX.h
+[1.920s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/SonixCamera.h
+[1.921s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniCEnums.h
+[1.921s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniProperties.h
+[1.921s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Driver
+[1.921s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Driver/OniDriverAPI.h
+[1.921s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Driver/OniDriverTypes.h
+[1.921s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniCAPI.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/util.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniVersion.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/KinectProperties.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniCProperties.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/PS1080.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/PSLink.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Android-Arm
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Android-Arm/OniPlatformAndroid-Arm.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OpenNI.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniTest.h
+[1.922s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Linux-Arm
+[1.923s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Linux-Arm/OniPlatformLinux-Arm.h
+[1.923s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Linux-x86
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/Linux-x86/OniPlatformLinux-x86.h
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniEnums.h
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/openni2/OniPlatform.h
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/json.hpp
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/ros_param_backend.h
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/ob_timer_filter.h
+[1.924s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/types.h
+[1.925s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/uvc_camera_driver.h
+[1.925s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/dynamic_params.h
+[1.925s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/utils.h
+[1.925s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/point_cloud_proc
+[1.925s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/point_cloud_proc/point_cloud_proc.h
+[1.925s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/point_cloud_proc/depth_traits.h
+[1.925s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/point_cloud_proc/point_cloud_xyzrgb.h
+[1.926s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/point_cloud_proc/point_cloud_xyz.h
+[1.926s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/constants.h
+[1.926s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/ob_camera_node_factory.h
+[1.926s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/ob_context.h
+[1.926s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/include/astra_camera/ob_camera_node.h
+[1.926s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch
+[1.926s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/stereo_s_u3.launch.xml
+[1.927s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/gemini.launch.xml
+[1.927s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/deeyea.launch.xml
+[1.927s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/multi_dabai_dcw.launch.xml
+[1.927s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/astro_pro_plus.launch.xml
+[1.927s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/astra.launch.xml
+[1.927s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/dabai_u3.launch.xml
+[1.927s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/multi_astra.launch.xml
+[1.928s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/list_devices.launch.xml
+[1.928s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/gemini_e_lite.launch.xml
+[1.928s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/embedded_s.launch.xml
+[1.928s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/multi_gemini.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/astra_pro.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/stereo_s.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/embedded_u3.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/dabai_dcw.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/dabai_pro.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/dabai_dw.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/gemini_e.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/dabai_dc1.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/.gitkeep
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/multi_deeyea.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera//launch/multi_dabai_pro.launch.xml
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/environment/library_path.sh
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/environment/library_path.dsv
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/ament_index/resource_index/package_run_dependencies/astra_camera
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/ament_index/resource_index/parent_prefix_path/astra_camera
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/environment/ament_prefix_path.sh
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/environment/ament_prefix_path.dsv
+[1.929s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/environment/path.sh
+[1.930s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/environment/path.dsv
+[1.930s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/local_setup.bash
+[1.930s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/local_setup.sh
+[1.930s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/local_setup.zsh
+[1.930s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/local_setup.dsv
+[1.930s] -- Installing: /home/david/detection_ws/install/astra_camera/share/astra_camera/package.dsv
+[1.931s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/ament_index/resource_index/packages/astra_camera
+[1.931s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.931s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/cmake/ament_cmake_export_libraries-extras.cmake
+[1.931s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.931s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/cmake/astra_cameraConfig.cmake
+[1.931s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/cmake/astra_cameraConfig-version.cmake
+[1.931s] -- Up-to-date: /home/david/detection_ws/install/astra_camera/share/astra_camera/package.xml
+[1.933s] Invoked command in '/home/david/detection_ws/build/astra_camera' returned '0': CMAKE_PREFIX_PATH=/home/david/detection_ws/install/astra_camera_msgs:/home/david/detection_ws/install/astra_camera:/home/david/detection_ws/install/object_detector:/opt/ros/humble LD_LIBRARY_PATH=/home/david/detection_ws/install/astra_camera_msgs/lib:/home/david/detection_ws/install/astra_camera/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/david/detection_ws/install/astra_camera_msgs/lib/python3.10/site-packages:/home/david/detection_ws/install/object_detector/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/cmake --install /home/david/detection_ws/build/astra_camera

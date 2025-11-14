@@ -1,0 +1,41 @@
+[0.479s] Invoking command in '/home/david/detection_ws/src/object_detector': PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/david/detection_ws/build/object_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/david/detection_ws/install/object_detector/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detector build --build-base /home/david/detection_ws/build/object_detector/build install --record /home/david/detection_ws/build/object_detector/install.log --single-version-externally-managed install_data
+[0.648s] running egg_info
+[0.649s] creating ../../build/object_detector/object_detector.egg-info
+[0.649s] writing ../../build/object_detector/object_detector.egg-info/PKG-INFO
+[0.649s] writing dependency_links to ../../build/object_detector/object_detector.egg-info/dependency_links.txt
+[0.649s] writing entry points to ../../build/object_detector/object_detector.egg-info/entry_points.txt
+[0.650s] writing requirements to ../../build/object_detector/object_detector.egg-info/requires.txt
+[0.650s] writing top-level names to ../../build/object_detector/object_detector.egg-info/top_level.txt
+[0.650s] writing manifest file '../../build/object_detector/object_detector.egg-info/SOURCES.txt'
+[0.651s] reading manifest file '../../build/object_detector/object_detector.egg-info/SOURCES.txt'
+[0.651s] writing manifest file '../../build/object_detector/object_detector.egg-info/SOURCES.txt'
+[0.651s] running build
+[0.652s] running build_py
+[0.652s] creating /home/david/detection_ws/build/object_detector/build
+[0.652s] creating /home/david/detection_ws/build/object_detector/build/lib
+[0.652s] creating /home/david/detection_ws/build/object_detector/build/lib/object_detector
+[0.652s] copying object_detector/depth_fusion_node.py -> /home/david/detection_ws/build/object_detector/build/lib/object_detector
+[0.652s] copying object_detector/ai_detection_node.py -> /home/david/detection_ws/build/object_detector/build/lib/object_detector
+[0.652s] copying object_detector/__init__.py -> /home/david/detection_ws/build/object_detector/build/lib/object_detector
+[0.653s] running install
+[0.653s] running install_lib
+[0.653s] creating /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector
+[0.654s] copying /home/david/detection_ws/build/object_detector/build/lib/object_detector/depth_fusion_node.py -> /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector
+[0.654s] copying /home/david/detection_ws/build/object_detector/build/lib/object_detector/ai_detection_node.py -> /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector
+[0.654s] copying /home/david/detection_ws/build/object_detector/build/lib/object_detector/__init__.py -> /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector
+[0.654s] byte-compiling /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector/depth_fusion_node.py to depth_fusion_node.cpython-310.pyc
+[0.655s] byte-compiling /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector/ai_detection_node.py to ai_detection_node.cpython-310.pyc
+[0.656s] byte-compiling /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector/__init__.py to __init__.cpython-310.pyc
+[0.656s] running install_data
+[0.656s] creating /home/david/detection_ws/install/object_detector/share/ament_index
+[0.656s] creating /home/david/detection_ws/install/object_detector/share/ament_index/resource_index
+[0.656s] creating /home/david/detection_ws/install/object_detector/share/ament_index/resource_index/packages
+[0.657s] copying resource/object_detector -> /home/david/detection_ws/install/object_detector/share/ament_index/resource_index/packages
+[0.657s] copying package.xml -> /home/david/detection_ws/install/object_detector/share/object_detector
+[0.657s] running install_egg_info
+[0.658s] Copying ../../build/object_detector/object_detector.egg-info to /home/david/detection_ws/install/object_detector/lib/python3.10/site-packages/object_detector-0.0.0-py3.10.egg-info
+[0.659s] running install_scripts
+[0.675s] Installing ai_detection_node script to /home/david/detection_ws/install/object_detector/lib/object_detector
+[0.675s] Installing depth_fusion_node script to /home/david/detection_ws/install/object_detector/lib/object_detector
+[0.675s] writing list of installed files to '/home/david/detection_ws/build/object_detector/install.log'
+[0.694s] Invoked command in '/home/david/detection_ws/src/object_detector' returned '0': PS1=(ros_ai_venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/david/detection_ws/build/object_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/david/detection_ws/install/object_detector/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(ros_ai_venv) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detector build --build-base /home/david/detection_ws/build/object_detector/build install --record /home/david/detection_ws/build/object_detector/install.log --single-version-externally-managed install_data
